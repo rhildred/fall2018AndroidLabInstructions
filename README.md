@@ -23,6 +23,8 @@ screen shots and whatnot for Conestoga's lab Android Studio setup
 
 6) Run using "easy button"
 
+![easy button](https://rhildred.github.io/fall2018AndroidLabInstructions/READMEImages/easyButton.png "easy button")
+
 Note: Gradle sync is your friend
 
 ![sync](https://rhildred.github.io/fall2018AndroidLabInstructions/READMEImages/GradleSyncIsYourFriend.PNG "sync")
